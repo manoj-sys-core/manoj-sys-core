@@ -10,7 +10,7 @@
 ---
 
 ### 🧠 About Me
-Name: Manoj S 🔧 Role: Engineering Student | Developer | AI Enthusiast 🧰 Skills: Python, HTML, CSS, Java, React, C, C++ 🎯 Goal: Become an AI Engineer & Build Meaningful Tech
+Name: Manoj S 🔧 Role: Engineering Student | Developer | AI Enthusiast 🧰 Skills: Python, HTML, CSS, Java, React, C, C++ 🎯 Goal: Become an Full Stack & Java Developer
 
 ---
 
