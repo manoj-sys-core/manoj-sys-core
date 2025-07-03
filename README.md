@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Manoj S</h1>
-<h3 align="center">👨‍💻 Engineering Student | 🌐 Web Developer | 🐍 Pythonista | 🤖 Future AI Engineer</h3>
+<h3 align="center">👨‍💻 Engineering Student | 🌐 Web Developer | 🐍 Pythonist | 🤖 Java Developer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=manoj-sys-core&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -10,7 +10,7 @@
 ---
 
 ### 🧠 About Me
-Name: Manoj S 🔧 Role: Engineering Student | Developer | AI Enthusiast 🧰 Skills: Python, HTML, CSS, Java, React, C, C++ 🎯 Goal: Become an Full Stack & Java Developer
+Name: Manoj S 🔧 Role: Engineering Student | Developer | AI Enthusiast 🧰 Skills: Python, HTML, CSS, Java,javascript, React, C, C++ 🎯 Goal: Become an Full Stack & Java Developer
 
 ---
 
