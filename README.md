@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Manoj S, a Computer Science Engineering undergraduate and aspiring Software Developer.<br>💻 Skilled in Python, JavaScript, HTML, CSS, React, Node.js, Git/GitHub, and Firebase.<br>🌐 Currently training in IBM Full Stack & DevOps Certification, learning cloud, CI/CD, and agile practices.<br>🚀 Passionate about Full Stack Development, DevOps, and scalable software solutions.<br>🔎 Actively seeking internship opportunities to apply my skills and gain industry exposure.<br>⚡ Curious, adaptable, and driven to grow into a versatile Software Engineer.<br><br><br>
+Hi, I’m Manoj S, a Computer Science Engineering undergraduate and an aspiring Software Developer. I’m currently learning Full Stack Development and DevOps, gaining hands-on experience with Python, JavaScript, React, HTML, CSS, Git, and GitHub. I’m passionate about building scalable applications, cloud solutions, and real-world projects, and I’m actively seeking internship opportunities to apply my skills and grow into a versatile Software Engineer.
 
 
 ## 🌐 Socials:
