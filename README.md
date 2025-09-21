@@ -54,7 +54,7 @@ I love building **scalable apps, cloud solutions, and real-world projects**, and
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoj-sys-core&theme=gruvbox&hide_border=false&layout=compact&langs_count=5&size_weight=200" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoj-sys-core&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="180"/>
 </p>
 
 ---
